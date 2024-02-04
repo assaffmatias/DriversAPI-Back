@@ -123,10 +123,19 @@ const getDriverByName = async (name) => {
     return [...driverDB, ...driverFilter];
 };
 
+const deleteDriverDb = async (id) => {
+    const driverDB = await Driver.destroy({
+        where: {id: id}
+    })
+    return driverDB;
+}
+
 module.exports = {
     createDriver,
     getAllDrivers,
     getDriverById,
     getDriverByName,
+    deleteDriverDb,
+    
 };
 
