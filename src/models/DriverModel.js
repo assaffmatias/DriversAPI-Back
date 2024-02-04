@@ -18,7 +18,11 @@ module.exports = (sequelize) => {
       allowNull: false,
     },
     description: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
+      allowNull: false,
+      validate: {
+        len: [2, 1000] // Establece el límite mínimo y máximo de caracteres permitidos
+      }
     },
     image: {
       type: DataTypes.STRING,
