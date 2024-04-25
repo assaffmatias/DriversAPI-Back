@@ -97,6 +97,118 @@
         "nationality": "British",
         "teams": "McLaren",
         "description": "Lando Norris (born 13 November 1999) is a British and Belgian racing driver currently competing in Formula One with McLaren, racing under the British flag. He won the MSA Formula championship in 2015, and the Toyota Racing Series, Eurocup Formula Renault 2.0 and Formula Renault 2.0 Northern European Cup in 2016. He also received the McLaren Autosport BRDC Award that year. He subsequently joined the McLaren Young Driver Programme in 2017 and won the 2017 FIA Formula 3 European Championship, competing with Carlin Motorsport. Consequently, he was promoted to the Formula 2 Carlin team, where he finished second in 2018. He was then announced as a McLaren driver in 2018, alongside Carlos Sainz Jr. He achieved his first podium in Formula One at the 2020 Austrian Grand Prix."
+      },
+      {
+        "id": 8,
+        "driverRef": "Russel",
+        "number": "\\N",
+        "code": "RUS",
+        "name": { "forename": "George", "surname": "Russel" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvcnVzLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1998-15-02",
+        "nationality": "British",
+        "teams": "Williams, Mercedes",
+        "description": "George William Russell (born 15 February 1998) is a British racing driver currently competing in Formula One for Mercedes. He previously raced for Williams from 2019 to 2021. After winning several karting championships including the CIK-FIA European Karting Championship in 2012, he repeated his success by becoming the 2018 Formula 2 champion and the 2017 GP3 Series champion, driving for ART in both campaigns to become one of only three drivers to win both championships in his respective rookie seasons. Following his Formula 2 championship win, Russell signed for Williams in 2019, making his debut at the 2019 Australian Grand Prix. He stood in for Lewis Hamilton at Mercedes at the 2020 Sakhir Grand Prix, but was denied a Grand Prix victory due to strategic errors. In 2022, Russell departed Williams to race for the Mercedes team, having been a member of the Mercedes Junior Driver Programme since 2017. Russell achieved his first F1 victory at the 2022 São Paulo Grand Prix."
+      },
+      {
+        "id": 9,
+        "driverRef": "ALONSO",
+        "number": "\\N",
+        "code": "ALO",
+        "name": { "forename": "Fernando", "surname": "Alonso" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvYWxvLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1981-29-07",
+        "nationality": "Spanish",
+        "teams": "Minardi, Renault, McLaren, Ferrari, Alpine, Aston Martin",
+        "description": "Fernando Alonso Díaz (born 29 July 1981) is a Spanish racing driver currently competing for Aston Martin in Formula One. He won the series' World Drivers' Championship in 2005 and 2006 with Renault, and has also driven for McLaren, Ferrari, and Minardi. With Toyota, Alonso won the 24 Hours of Le Mans twice, in 2018 and 2019, and the FIA World Endurance Championship in 2018/19. He also won the 24 Hours of Daytona with Wayne Taylor Racing in 2019. As of 2024, Alonso is the only driver to win both the F1 World Drivers' Championship and the World Endurance Championship, even if the World Sportscar Championship is included in WEC."
+      },
+      {
+        "id": 10,
+        "driverRef": "OCON",
+        "number": "\\N",
+        "code": "OCO",
+        "name": { "forename": "Esteban", "surname": "Ocon" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvb2NvLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1996-17-09",
+        "nationality": "French",
+        "teams": "Manor, Force India, Mercedes, Renault, Alpine",
+        "description": "Esteban José Jean-Pierre Ocon-Khelfane (born 17 September 1996) is a French racing driver currently competing in Formula One for Alpine. Ocon experienced a successful junior career as he won the 2014 FIA Formula 3 European Championship and the 2015 GP3 Series despite only winning one race in the latter campaign, which earned him a place at the Mercedes driver development programme, for whom he worked as a reserve driver. After winning the GP3 title, Ocon made his Formula One debut for Manor Racing in the 2016 Belgian Grand Prix, replacing Rio Haryanto. He moved to Force India/Racing Point in 2017, partnering Mexican driver Sergio Pérez for the 2017 and 2018 Formula 1 seasons. Ocon left Racing Point at the end of 2018, and became a reserve driver for Mercedes in 2019 until his move to Renault for 2020. He took his maiden Formula One podium at the 2020 Sakhir Grand Prix and maiden victory at the 2021 Hungarian Grand Prix."
+      },
+      {
+        "id": 11,
+        "driverRef": "GASLY",
+        "number": "\\N",
+        "code": "GAS",
+        "name": { "forename": "Pierre", "surname": "Gasly" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvZ2FzLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1996-07-02",
+        "nationality": "French",
+        "teams": "Toro Rosso, Red Bull, AlphaTauri, Alpine",
+        "description": "Pierre Jean-Jacques Gasly (born 7 February 1996) is a French racing driver currently competing in Formula One for Alpine. He won the 2016 GP2 Series championship, and finished as runner-up in the 2014 Formula Renault 3.5 Series and the 2017 Super Formula Championship. Gasly made his Formula One debut with Toro Rosso at the 2017 Malaysian Grand Prix. He moved to Red Bull Racing in 2019, before being demoted and replaced with Alexander Albon from Toro Rosso between the Hungarian and Belgian rounds. Regardless, Gasly achieved his first podium at the 2019 Brazilian Grand Prix, finishing second. He won at the 2020 Italian Grand Prix while driving for AlphaTauri, securing his maiden victory in Formula One. He would achieve another podium at the 2021 Azerbaijan Grand Prix by finishing third behind eventual race winner Sergio Pérez and Sebastian Vettel."
+      },
+      {
+        "id": 12,
+        "driverRef": "Ricciardo",
+        "number": "\\N",
+        "code": "RIC",
+        "name": { "forename": "Daniel", "surname": "Ricciardo" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvcmljLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1989-01-07",
+        "nationality": "Australian",
+        "teams": "Red Bull, HRT, Toro Rosso, Renault, McLaren, AlphaTauri",
+        "description": "Daniel Joseph Ricciardo AM (born 1 July 1989) is an Australian and Italian racing driver currently competing in Formula One for RB Formula One Team under the Australian flag. He has achieved eight Grand Prix victories and 32 podiums in Formula One. Ricciardo made his debut at the 2011 British Grand Prix with the HRT team as part of a deal with Red Bull Racing, for whom he was test driving under its sister team Scuderia Toro Rosso. He joined Toro Rosso in 2012 full-time after the team changed its driver lineup and drove a Ferrari-powered car for them in 2012 and 2013. In 2014, Ricciardo was promoted to Red Bull as a replacement for the retiring Mark Webber alongside Sebastian Vettel. In his first season with Red Bull under Renault power, Ricciardo finished third in the championship with his first three Formula One wins, in Canada, Hungary, and Belgium."
+      },
+      {
+        "id": 13,
+        "driverRef": "Vettel",
+        "number": "\\N",
+        "code": "VET",
+        "name": { "forename": "Sebastian", "surname": "Vettel" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvdmV0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1987-03-07",
+        "nationality": "German",
+        "teams": "BMW Sauber, Toro Rosso, Red Bull, Ferrari, Aston Martin",
+        "description": "Sebastian Vettel (born 3 July 1987) is a German racing driver who competed in Formula One from 2007 to 2022 for BMW Sauber, Toro Rosso, Red Bull, Ferrari and Aston Martin. Vettel is one of the most successful drivers in Formula One history and has won four World Drivers' Championship titles, which he won consecutively from 2010 to 2013 with Red Bull. Vettel holds the record for being the youngest World Champion in Formula One, has the fourth-most race victories (53), third-most podium finishes (122), and fourth-most pole positions (57)."
+      },
+      {
+        "id": 14,
+        "driverRef": "Albon",
+        "number": "\\N",
+        "code": "ALB",
+        "name": { "forename": "Alexander", "surname": "Albon" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvYWxiLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1996-23-03",
+        "nationality": "Thai",
+        "teams": "Toro Rosso, Red Bull, Williams",
+        "description": "Alexander Albon Ansusinha (born 23 March 1996) is a Thai and British racing driver currently competing in Formula One for Williams Racing, under the Thai flag. Albon previously raced in Formula One for Scuderia Toro Rosso and Red Bull Racing and in DTM for AF Corse. After becoming part of the Red Bull Junior Team in 2012, he was promoted to open-wheel cars for the 2012 Eurocup Formula Renault 2.0 season. He spent three years in the series and finished third in the 2014 championship. He moved to the FIA Formula 3 European Championship in 2015, where he finished seventh. He signed with ART Grand Prix to contest the 2016 GP3 Series, and ended the season as runner-up behind teammate Charles Leclerc. In 2017 Albon moved up to the FIA Formula 2 Championship with ART, where he finished his maiden year tenth in the standings. He then switched to the DAMS team for 2018, winning four races and finishing third in the championship. He made his Formula One début in 2019 with Toro Rosso alongside Daniil Kvyat. After twelve races, Albon was promoted to Red Bull Racing, partnering Max Verstappen and replacing Pierre Gasly. He took his first podium finish and the first in a World Championship Formula One race for a Thai driver at the 2020 Tuscan Grand Prix. After two seasons in Formula One, Albon was demoted to a test and reserve driver role with Red Bull for 2021 and his seat was taken by Sergio Pérez. Albon returned to Formula One in 2022, driving for Williams, replacing fellow 2019 rookie George Russell, and continued with the team in 2023"
+      },
+      {
+        "id": 15,
+        "driverRef": "Magnussen",
+        "number": "\\N",
+        "code": "MAG",
+        "name": { "forename": "Kevin", "surname": "Magnussen" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvbWFnLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1992-05-10",
+        "nationality": "Danish",
+        "teams": "McLaren, Renault, Haas",
+        "description": "Kevin Jan Magnussen (born 5 October 1992) is a Danish racing driver currently competing in Formula One for Haas F1 Team. He is the son of four-time Le Mans winner and former Formula One driver Jan Magnussen. Magnussen came up through McLaren Formula One team's Young Driver Programme and drove for McLaren in the 2014 Formula One World Championship, before a stint with Renault in 2016. Magnussen drove for Haas from 2017 until the end of the 2020 season. In 2022, Magnussen rejoined Haas on a multi-year deal."
       }
     ]
   }
