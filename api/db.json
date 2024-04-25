@@ -209,6 +209,216 @@
         "nationality": "Danish",
         "teams": "McLaren, Renault, Haas",
         "description": "Kevin Jan Magnussen (born 5 October 1992) is a Danish racing driver currently competing in Formula One for Haas F1 Team. He is the son of four-time Le Mans winner and former Formula One driver Jan Magnussen. Magnussen came up through McLaren Formula One team's Young Driver Programme and drove for McLaren in the 2014 Formula One World Championship, before a stint with Renault in 2016. Magnussen drove for Haas from 2017 until the end of the 2020 season. In 2022, Magnussen rejoined Haas on a multi-year deal."
+      },
+      {
+        "id": 16,
+        "driverRef": "Guanyu",
+        "number": "\\N",
+        "code": "GUA",
+        "name": { "forename": "Zhou", "surname": "Guanyu" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvemhvLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1999-30-05",
+        "nationality": "Chinese",
+        "teams": "Alfa Romeo, Sauber",
+        "description": "Zhou Guanyu (born 30 May 1999) is a Chinese racing driver who currently competes in Formula One for Stake F1 Team Kick Sauber. He is the first, and so far the only, Chinese driver to start a World Championship Formula One race. He competed in the FIA Formula 2 Championship for UNI-Virtuosi Racing from 2019 to 2021, having finished 3rd in the 2021 campaign. A former member of the Alpine Academy, he served as the test driver for the Renault F1 Team and the Alpine F1 Team in 2020 and 2021 respectively.Prior to that, he was a member of the Ferrari Driver Academy from 2014 to 2018, and served as the development driver for Formula E team DS Techeetah in 2018."
+      },
+      {
+        "id": 17,
+        "driverRef": "Stroll",
+        "number": "\\N",
+        "code": "STR",
+        "name": { "forename": "Lance", "surname": "Stroll" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvc3RyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1998-29-10",
+        "nationality": "Canadian",
+        "teams": "Williams, Racing Point, Aston Martin",
+        "description": "Lance Strulovitch (born 29 October 1998), better known as Lance Stroll, is a Canadian and Belgian racing driver competing under the Canadian flag in Formula One. He has driven for Aston Martin since 2021, having previously driven for Williams and Racing Point. He was Italian F4 champion in 2014, Toyota Racing Series champion in 2015, and 2016 FIA European Formula 3 champion. He was part of the Ferrari Driver Academy from 2010 to 2015. He achieved his first podium finish, a 3rd place, at the 2017 Azerbaijan Grand Prix, becoming the second-youngest driver to finish an F1 race on the podium and the youngest to do so during his rookie season. At the 2020 Turkish Grand Prix, Stroll took his first pole position in Formula One. Stroll also competed in endurance racing, taking part in the 24 Hours of Daytona in 2016 and 2018."
+      },
+      {
+        "id": 18,
+        "driverRef": "Giovinazzi",
+        "number": "\\N",
+        "code": "GIO",
+        "name": { "forename": "Antonio", "surname": "Giovinazzi" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvZ2lvLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1993-14-12",
+        "nationality": "Italian",
+        "teams": "Alfa Romeo, Ferrari, Alpine",
+        "description": "Antonio Maria Giovinazzi (born 14 December 1993) is an Italian racing driver who currently competes in the 2024 FIA World Endurance Championship driving for Ferrari AF Corse. He was the 2015 FIA Formula 3 European Championship runner-up and raced with Prema in the 2016 GP2 Series, again finishing runner-up with five wins and eight overall podiums. Giovinazzi made his competitive debut for Sauber at the 2017 Australian Grand Prix, replacing the injured Pascal Wehrlein. He also replaced Wehrlein at the following Chinese Grand Prix as Wehrlein continued his recovery. Giovinazzi raced full time for Alfa Romeo Racing from 2019 to 2021. During his tenure for Ferrari AF Corse, he won the 2023 24 Hours of Le Mans alongside James Calado and Alessandro Pier Guidi."
+      },
+      {
+        "id": 19,
+        "driverRef": "Tsunoda",
+        "number": "\\N",
+        "code": "TSU",
+        "name": { "forename": "Yuki", "surname": "Tsunoda" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvdHN1LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "2000-11-05",
+        "nationality": "Japanese",
+        "teams": "AlphaTauri, Red Bull",
+        "description": "Yuki Tsunoda (born 11 May 2000) is a Japanese racing driver currently competing in Formula One for the RB Formula One Team. Supported by Honda since 2016 through the Honda Formula Dream Project, he was the 2018 Japanese F4 champion and in 2019 also received backing from Red Bull. He finished third in the 2020 Formula 2 Championship and made his Formula One debut in 2021 for AlphaTauri."
+      },
+      {
+        "id": 20,
+        "driverRef": "Hülkenberg",
+        "number": "\\N",
+        "code": "HÜL",
+        "name": { "forename": "Nico", "surname": "Hülkenberg" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvaHVsLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1987-19-08",
+        "nationality": "German",
+        "teams": "Williams, Force India, Sauber, Renaul, Racing Point,Aston Martin, Hass",
+        "description": "Nicolas Hülkenberg (born 19 August 1987) is a German racing driver who drives for the Haas F1 Team in Formula One. He was the 2009 GP2 Series champion, and is a previous champion of both the Formula 3 Euro Series and A1 Grand Prix, as part of A1 Team Germany. He is one of six drivers since 2005 to win the GP2 Series/Formula 2 championship in his debut season. Outside of Formula One, he won the 24 Hours of Le Mans in 2015 on his first attempt and also contested two rounds of the 2015 FIA World Endurance Championship season for Porsche."
+      },
+      {
+        "id": 21,
+        "driverRef": "Schumacher",
+        "number": "\\N",
+        "code": "SCH",
+        "name": { "forename": "Mick", "surname": "Schumacher" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvbXNjLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1999-22-03",
+        "nationality": "German",
+        "teams": "Haas",
+        "description": "Mick Schumacher (born 22 March 1999)[1][2] is a Swiss-born German racing driver who is the reserve driver for the Mercedes AMG Formula One Team and McLaren, set to compete in the 2024 FIA World Endurance Championship with Alpine in the Hypercar category. Schumacher, raised in Gland, Switzerland, began his career in karting in 2008, progressing to the German ADAC Formula 4 by 2015. He initially used the pseudonym 'Mick Betsch' to avoid the spotlight due to the fame of his father, Michael Schumacher. After winning the 2018 FIA F3 European Championship, he progressed to Formula 2 in 2019, and won the 2020 Formula 2 Championship, with Prema Racing. His progression into Formula One saw him join the Ferrari Driver Academy in 2019, testing for Ferrari and Alfa Romeo before making his practice debut in the 2020 season. Schumacher competed in Formula One for Haas F1 Team in the 2021 and 2022 seasons. In 2023, he took on a new role as a reserve driver for both Mercedes-AMG Petronas Formula One Team and McLaren F1 Team. Mick Schumacher joined Alpine's World Endurance Hypercar team for the 2024 season."
+      },
+      {
+        "id": 22,
+        "driverRef": "Piastri",
+        "number": "\\N",
+        "code": "PIA",
+        "name": { "forename": "Oscar", "surname": "Piastri" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvcGlhLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "2001-06-04",
+        "nationality": "Australian",
+        "teams": "McLaren",
+        "description": "Oscar Jack Piastri (born 6 April 2001) is an Australian racing driver currently competing in Formula One for McLaren. Piastri won the 2019 Formula Renault Eurocup with R-ace GP, and won the 2020 FIA Formula 3 Championship and 2021 Formula 2 Championship with Prema Racing. He is only the sixth driver to win the GP2/Formula 2 Championship in their rookie season, and the fifth driver to win the GP3/Formula 3 Championship and the GP2/Formula 2 Championship in consecutive seasons. He is the first driver in history to win the Formula Renault Eurocup, Formula 3, and Formula 2 championships (or equivalent) in successive rookie years.."
+      },
+      {
+        "id": 23,
+        "driverRef": "De Vries",
+        "number": "\\N",
+        "code": "DVR",
+        "name": { "forename": "Nyck", "surname": "De Vries" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvZGV2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1995-06-02",
+        "nationality": "Dutch",
+        "teams": "Williams, AlphaTauri",
+        "description": "Hendrik Johannes Nicasius 'Nyck' de Vries (born 6 February 1995) is a Dutch racing driver currently competing for Mahindra Racing in Formula E and Toyota Gazoo Racing in the FIA World Endurance Championship. He won the 2020/21 Formula E World Championship and the 2019 FIA Formula 2 Championship as well as the 2010 and 2011 Karting World Championships. He was signed to the McLaren Young Driver Programme from January 2010 until May 2019. De Vries made his Formula One debut in September 2022 as a substitute for Williams at the 2022 Italian Grand Prix. He joined Scuderia AlphaTauri for the 2023 season but was released after the 2023 British Grand Prix the 10th race of that 22-race season."
+      },
+      {
+        "id": 24,
+        "driverRef": "Latifi",
+        "number": "\\N",
+        "code": "LAT",
+        "name": { "forename": "Nicholas", "surname": "Latifi" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvbGF0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1995-29-06",
+        "nationality": "Canadian",
+        "teams": "Williams",
+        "description": "Nicholas Daniel Latifi (born 29 June 1995) is a Canadian former racing driver who last raced in Formula One. Latifi made his Formula One debut in the 2020 Austrian Grand Prix and competed with Williams for three full seasons, managing to score nine championship points. Prior to that, he served as a test and reserve driver for Renault, Force India, and Williams itself."
+      },
+      {
+        "id": 25,
+        "driverRef": "Buemi",
+        "number": "\\N",
+        "code": "BUE",
+        "name": { "forename": "Sébastien", "surname": "Buemi" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvYnVlLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1988-31-10",
+        "nationality": "Swiss",
+        "teams": "Toro Rosso, Red Bull",
+        "description": "Sébastien Olivier Humbert Buemi (born 31 October 1988) is a Swiss professional racing driver, who competes in the FIA Formula E Championship for Envision Racing and in the FIA World Endurance Championship for Toyota Gazoo Racing. He competed for Scuderia Toro Rosso in Formula One from 2009 to 2011. After leaving Formula One, Buemi became a reserve driver for Scuderia Toro Rosso's sister team, Red Bull Racing from 2012 to 2013. He returned to Red Bull Racing in 2019 as a reserve driver. Buemi has competed in the FIA World Endurance Championship with Toyota Gazoo Racing (formerly Toyota Racing) since 2012. He became the 2014 World Endurance Champion in the LMP1 class. He won both the 2018 24 Hours of Le Mans and, subsequently, the 2018-19 WEC Championship. He also won the 2019, 2020 and 2022 24 Hours of Le Mans. Buemi has raced FIA Formula E Championship with e.dams Renault (now Nissan Formula E Team) since 2014. He won the Formula E Championship in 2015/16. Buemi also became part of the Nismo Global Driver Exchange."
+      },
+      {
+        "id": 26,
+        "driverRef": "Vandoorne",
+        "number": "\\N",
+        "code": "VAN",
+        "name": { "forename": "Stoffel", "surname": "Vandoorne" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvdmFuLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1992-26-03",
+        "nationality": "Belgian",
+        "teams": "McLaren, Mercedes, Aston Martin",
+        "description": "Stoffel Vandoorne (born 26 March 1992) is a Belgian professional racing driver who is currently racing for DS Penske in Formula E and Peugeot TotalEnergies in WEC. He had previously competed in Formula One for McLaren from 2016 to 2018. He was champion of the 2015 GP2 Series and the 2021/22 Formula E World Championship. He currently resides in both Monte Carlo (Monaco) and Roeselare (Belgium)."
+      },
+      {
+        "id": 27,
+        "driverRef": "Kubica",
+        "number": "\\N",
+        "code": "KUB",
+        "name": { "forename": "Robert", "surname": "Kubica" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEva3ViLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1984-07-12",
+        "nationality": "Polish",
+        "teams": "McLaren, Renault, Haas",
+        "description": "Robert Józef Kubica (born 7 December 1984) is a Polish racing and rally driver, competing for AF Corse in the 2024 FIA World Endurance Championship. He previously competed for Team WRT where he won the 2023 FIA World Endurance Championship in the LMP2 class. He was the first and so far holds a record as of 2023, for being the only Polish racing driver to compete and win a race in Formula One which was the 2008 Canadian Grand Prix, making his latest appearance in the 2021 Italian Grand Prix."
+      },
+      {
+        "id": 28,
+        "driverRef": "Lawson",
+        "number": "\\N",
+        "code": "LAU",
+        "name": { "forename": "Liam", "surname": "Lawson" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvbGF3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "2002-11-02",
+        "nationality": "New Zelander",
+        "teams": "AlphaTauri",
+        "description": "Liam Lawson (born 11 February 2002) is a New Zealand motor racing driver currently serving as a reserve driver for Red Bull Racing and RB Formula One Team. Lawson, who is mentored by three-time New Zealand Grand Prix winner Ken Smith, previously competed for the Carlin team in the FIA Formula 2 Championship, where he finished third in 2022. He is a previous Toyota Racing Series champion and former member of the Red Bull Junior Team. In 2021, he also raced for the Red Bull AF Corse team in the Deutsche Tourenwagen Masters, partnering Alex Albon, narrowly missing out on the championship in the last round. He is also the runner-up during the 2023 Super Formula Championship with Team Mugen."
+      },
+      {
+        "id": 29,
+        "driverRef": "Aitken",
+        "number": "\\N",
+        "code": "AIT",
+        "name": { "forename": "Jack", "surname": "Aitken" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvYWl0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1995-23-09",
+        "nationality": "British",
+        "teams": "Renault, Williams",
+        "description": "Jack Anthony Han-Aitken (born 23 September 1995 in London) is a British-South Korean racing driver who currently competes for Action Express Racing in the IMSA SportsCar Championship and for Emil Frey Racing in the Deutsche Tourenwagen Masters. He was a former reserve driver for Williams Racing in Formula One, having previously been part of the Renault Sport Academy and Williams Driver Academy. Born in London to a Scottish father and South Korean mother, Aitken began his career in karting at Buckmore Park, aged 7. He made the transition to cars when he competed in the Intersteps Championship with Fortec Motorsport, with whom he then went on to race with in the Formula Renault BARC Winter Series, Formula Renault NEC and Formula Renault Eurocup. After winning the Formula Renault Eurocup in 2015, Aitken was signed up for the Renault young driver academy, with which he remained until 2019. After competing in the GP3 Series in 2016 and 2017 he progressed to Formula 2 for 2018. He was Williams F1's reserve driver from 2020 until announcing his exit from the team in January 2023, and raced for the team at the 2020 Sakhir Grand Prix, replacing George Russell, who, in turn, replaced Lewis Hamilton at Mercedes for the event."
+      },
+      {
+        "id": 30,
+        "driverRef": "Fittipaldi",
+        "number": "\\N",
+        "code": "FIT",
+        "name": { "forename": "Pietro", "surname": "Fittipaldi" },
+        "image": {
+          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvcGZpLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+        },
+        "dob": "1996-25-06",
+        "nationality": "Brazilian",
+        "teams": "Haas",
+        "description": "Pietro Fittipaldi da Cruz (born 25 June 1996) is a Brazilian racing driver currently competing in the IndyCar Series driving the No. 30 Honda for Rahal Letterman Lanigan Racing, alongside serving as a test and reserve driver for Formula One team Haas. Fittipaldi is the grandson of two-time Formula One world champion Emerson Fittipaldi and brother of racing driver Enzo Fittipaldi. He made his Formula One debut with Haas at the 2020 Sakhir Grand Prix, replacing the injured Romain Grosjean, becoming the fourth member of the Fittipaldi family to race in Formula One."
       }
     ]
   }
