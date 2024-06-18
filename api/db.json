@@ -21,7 +21,7 @@
         "code": "VER",
         "name": { "forename": "Max", "surname": "Verstappen" },
         "image": {
-          "url": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXItaGVhZHNob3RzLzIwMjIvZjEvdmVyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+          "url": "https://res.cloudinary.com/dth5pbvch/image/upload/v1718613951/ver_mhioqo.png"
         },
         "dob": "1997-09-30",
         "nationality": "Dutch",
@@ -35,7 +35,7 @@
         "code": "LEC",
         "name": { "forename": "Charles", "surname": "Leclerc" },
         "image": {
-          "url": "https://res.cloudinary.com/dth5pbvch/image/upload/v1718613951/ver_mhioqo.png"
+          "url": "https://res.cloudinary.com/dth5pbvch/image/upload/v1718613927/lec_p9hl4u.png"
         },
         "dob": "1997-10-16",
         "nationality": "Monégasque",
